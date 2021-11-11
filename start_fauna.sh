@@ -1,0 +1,1 @@
+docker run --rm --name faunadb -p 8443:8443 -p 8084:8084 fauna/faunadb:latest
